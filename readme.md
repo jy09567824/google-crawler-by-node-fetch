@@ -17,8 +17,8 @@
 1. node fetch
 2. cheerio
 
-# 使用到模組
+# 使用模組
 
-1.node fetch
-2.fs
-3.cheerio
+1. node fetch
+2. fs
+3. cheerio
